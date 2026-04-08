@@ -1,0 +1,90 @@
+<html>
+<head>
+    <title>Gourmet Food Showcase</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+<div style="text-align:center; margin-bottom:10px;">
+    <p style="font-size:14px; color:gray;">Designed by <strong>Alviya Sheikh</strong> | CS25011</p>
+</div>
+
+<h1>Gourmet Food Showcase</h1>
+
+<div class="gallery">
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1600891964599-f61ba0e24092?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card tall">
+        <img src="https://images.unsplash.com/photo-1551782450-a2132b4ba21d?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+  
+    <div class="card tall">
+        <img src="https://images.unsplash.com/photo-1490645935967-10de6ba17061?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1605475128023-3a6a1cbbd0f4?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card wide">
+        <img src="https://images.unsplash.com/photo-1543353071-873f17a7a088?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1551024601-bec78aea704b?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1512058564366-18510be2db19?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1529042410759-befb1204b468?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1473093295043-cdd812d0e601?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1505253216365-8c2b0e72e4b0?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1481931098730-318b6f776db0?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1514517220017-8ce97a34a7b6?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+    <div class="card">
+        <img src="https://images.unsplash.com/photo-1482049016688-2d3e1b311543?w=500&auto=format">
+        <div class="content"></div>
+    </div>
+
+</div>
+
+</body>
+</html>
